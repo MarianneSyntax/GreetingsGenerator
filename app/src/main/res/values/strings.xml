@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Greeting Generator</string>
+    <string name="sliderText">Höflichkeitslevel auswählen:</string>
+</resources>
